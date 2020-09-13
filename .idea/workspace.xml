@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3c5331-721d-40a5-8772-588124697df7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AutomationReport/API_Automation_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationReport/API_Automation_Report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/automation/ApiServices/ApiHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/automation/ApiServices/ApiHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -432,7 +429,7 @@
       <window_info id="Job Explorer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32729805" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32729805" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Log Analyzer" />
@@ -442,7 +439,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48189417" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48189417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

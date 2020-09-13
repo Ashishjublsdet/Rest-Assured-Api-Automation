@@ -23,7 +23,6 @@ public class Case1 extends BaseTest {
                 System.out.println(p.getFirst_name()));
 
         //Validate the Json Response
-        Assert.assertEquals();
     }
 }
 
