@@ -12,10 +12,10 @@ public class PayLoad {
 
     }
 
-    public static String getLogin(String mobile, String password) {
+    public static String createUser(String name, String job) {
         String body = "{\n" +
-                "\"mobile\":\"" + mobile + "\", \n" +
-                "\"password\":\"" + password + "\"\n" +
+                "\"name\":\"" + name + "\", \n" +
+                "\"job\":\"" + job + "\"\n" +
                 "}";
         return body;
     }
