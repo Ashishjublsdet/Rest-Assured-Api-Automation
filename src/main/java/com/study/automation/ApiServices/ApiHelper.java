@@ -26,7 +26,7 @@ public class ApiHelper {
         return response;
     }
 
-    public static Response postRequest(String URI, String body) {
+    public Response postRequest(String URI, String body) {
         Response response =
                 given().relaxedHTTPSValidation().log().all()
                         .with()
@@ -37,7 +37,7 @@ public class ApiHelper {
         return response;
     }
 
-    public static Response postRequestWithHeader(String URI, Map<String, String> map, String body) {
+    public Response postRequestWithHeader(String URI, Map<String, String> map, String body) {
         Response response = given()
                 .relaxedHTTPSValidation().log().all()
                 .with()
@@ -48,7 +48,7 @@ public class ApiHelper {
         return response;
     }
 
-    public static Response PostRequestWithHeader(String URI, Map<String, String> headerMap, Map<String, String> body) {
+    public Response PostRequestWithHeader(String URI, Map<String, String> headerMap, Map<String, String> body) {
         Response response = given()
                 .relaxedHTTPSValidation()
                 .with()
@@ -59,7 +59,7 @@ public class ApiHelper {
         return response;
     }
 
-    public static Response putRequestWithHeader(String URI, Map<String, String> map, String body) {
+    public Response putRequestWithHeader(String URI, Map<String, String> map, String body) {
         Response response = given()
                 .relaxedHTTPSValidation().log().all()
                 .with()
@@ -70,7 +70,7 @@ public class ApiHelper {
         return response;
     }
 
-    public static void ValidateStatusCode(Response response, HttpStatusCode httpStatusCode) {
+    public void ValidateStatusCode(Response response, HttpStatusCode httpStatusCode) {
         int statusCode = response.then().extract().statusCode();
         CustomAssert.assertEquals(statusCode, httpStatusCode.getCode(), "Verify Http Status Code ::");
     }

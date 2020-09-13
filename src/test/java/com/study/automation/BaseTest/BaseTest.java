@@ -18,6 +18,7 @@ public class BaseTest {
     public static String BASE_URL;
     Properties properties;
     public ApiHelper apiHelper;
+    public ObjectMapper objectMapper;
 
 
     @BeforeSuite
@@ -26,6 +27,7 @@ public class BaseTest {
         properties = Utility.loadProperty(path);
         this.BASE_URL = properties.getProperty("BASE_URL");
         apiHelper= new ApiHelper(this.BASE_URL);
+        objectMapper= Utility.getObjectMapper();
 
     }
 
