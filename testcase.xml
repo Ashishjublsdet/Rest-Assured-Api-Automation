@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite-1" parallel="false">
+    <listeners>
+        <listener class-name="com.study.automation.listners.CustomReporter"/>
+    </listeners>
+    <test name="Rest Assured" thread-count="1">
+        <classes>
+            <class name="com.study.automation.TestCases.Case1">
+            </class>
+        </classes>
+    </test>
+</suite>

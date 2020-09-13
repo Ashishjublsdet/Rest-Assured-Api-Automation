@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.study.automation.BaseTest.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.58 sec <<< FAILURE!
+flush(com.study.automation.BaseTest.BaseTest)  Time elapsed: 0.539 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.study.automation.customReporter.ExtentManager.addExecutionDetails_ExtentReport(ExtentManager.java:55)
+	at com.study.automation.BaseTest.BaseTest.flush(BaseTest.java:36)
+

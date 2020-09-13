@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3c5331-721d-40a5-8772-588124697df7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Image1/Screenshot 2020-09-13 at 7.58.26 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/automation/ResponsePojo/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/automation/ResponsePojo/CreateUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutomationReport/API_Automation_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationReport/API_Automation_Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/study/automation/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/automation/constants/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/study/automation/payLoad/PayLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/automation/payLoad/PayLoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java" afterDir="false" />
@@ -25,51 +31,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java">
+        <entry file="file://$PROJECT_DIR$/testcase.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/constants/Constants.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/customReporter/ExtentManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/ResponsePojo/CreateUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="268">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1855#1856#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,13 +79,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/automation/ApiServices/ApiHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/automation/payLoad/PayLoad.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/automation/ResponsePojo/CreateUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/automation/constants/Constants.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testcase.xml" />
       </list>
     </option>
   </component>
@@ -162,91 +153,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiServices" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="customAssertion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="customReporter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
               <item name="listners" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="payLoad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="ResponsePojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="StatusCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="Utility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,24 +175,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rest-Assured-Api-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rest-Assured-Api-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,6 +191,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image1" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -309,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Case1">
+  <component name="RunManager" selected="TestNG./Users/ashish.singh1/Desktop/MyGitRepo/RestAssured/Rest-Assured-Api-Automation-Framework/testcase.xml">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -410,8 +309,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/ashish.singh1/Desktop/MyGitRepo/RestAssured/Rest-Assured-Api-Automation-Framework/testcase.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest-Assured-Api-Automation-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testcase.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/ashish.singh1/Desktop/MyGitRepo/RestAssured/Rest-Assured-Api-Automation-Framework/testcase.xml" />
         <item itemvalue="TestNG.Case1" />
         <item itemvalue="TestNG.Case1.POST_REQUEST" />
         <item itemvalue="TestNG.Case1.GET_HTTP_REQUEST" />
@@ -432,9 +342,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Case1_GET_HTTP_REQUEST - 2020.09.13 at 10h 14m 26s.xml">
-      <configuration name="Case1.GET_HTTP_REQUEST" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Case1 - 2020.09.13 at 10h 58m 21s.xml">
       <configuration name="Case1" configurationId="TestNG" />
     </history-entry>
@@ -456,12 +363,21 @@
     <history-entry file="Case1 - 2020.09.13 at 19h 31m 53s.xml">
       <configuration name="Case1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Case1 - 2020.09.13 at 19h 33m 31s.xml">
+      <configuration name="Case1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Case1 - 2020.09.13 at 20h 05m 34s.xml">
+      <configuration name="Case1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ashish_singh1_Desktop_MyGitRepo_RestAssured_Rest-Assured-Api-Automation-Framework_testcase_xml - 2020.09.13 at 20h 05m 47s.xml">
+      <configuration name="/Users/ashish.singh1/Desktop/MyGitRepo/RestAssured/Rest-Assured-Api-Automation-Framework/testcase.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -473,16 +389,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.48189417" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39972144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972144" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32729805" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32729805" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" order="9" />
       <window_info anchor="bottom" id="Log Analyzer" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="SOQL Query" order="12" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286908" />
+      <window_info anchor="bottom" id="SOQL Query" order="12" weight="0.3286908" />
       <window_info anchor="bottom" id="Console" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -505,27 +421,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/customAssertion/CustomAssert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/customReporter/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,13 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -630,13 +522,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/TestCases/Case1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+        <state relative-caret-position="-578">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-737">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/study/automation/BaseTest/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/automation/customReporter/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

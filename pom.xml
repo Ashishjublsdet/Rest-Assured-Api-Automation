@@ -7,6 +7,9 @@
     <groupId>com.rest</groupId>
     <artifactId>Rest-Assured-Api-Automation-Framework</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <xmlfile>testcase.xml</xmlfile>
+    </properties>
     <build>
         <plugins>
             <plugin>
