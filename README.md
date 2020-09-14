@@ -14,7 +14,7 @@ cd Rest-Assured-Api-Automation-Framework
 ```
 **3.Run **
 ```bash
-run testcases.xml 
+mvn clean test
 ```
 ** POST UPDATE GET HTTP Request**
 
