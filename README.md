@@ -1,5 +1,5 @@
 # Rest-Assured-Api-Automation-Framework
-Rest API automation using Rest Assured ,Java, TestNg &amp; Maven 
+Rest API automation using Rest Assured ,Java, TestNg &amp; Maven & Extent Reporting for APIS
 
 
 ## Steps to Setup
